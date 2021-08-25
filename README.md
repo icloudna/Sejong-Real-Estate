@@ -24,7 +24,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/youngsin1108"><img src="https://github.com/chloesung/Sejong-Real-Estate/blob/main/5.%20Slides/img/ys.jpeg" width="120px;" alt=""/><br /><sub><b>Youngsin Lee</b></sub></a><br /> <a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="#code" title="Code">💻</a> <a href="#talk-kentcdodds" title="Talks">📢</a> <a href="#financial" title="Financial">💵</a> </td>
   </tr>
 </table>
-💬 Contact: chloesung@korea.ac.kr
 
 ## 구조
 1. **Data Preprocessing:** 500x500 격자 생성 후 그리드 별로 데이터 전처리
